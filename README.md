@@ -63,11 +63,6 @@ I'm a Computer Science student at UDF, passionate about technology, software dev
 
 | Area | Skills |
 |---|---|
-| Programming Languages | Python, C |
-| Web Development | HTML, CSS, JavaScript |
-| Database | MySQL |
-| Tools | Git, GitHub, Figma, Miro, Trello |
-| Software Engineering | Class Diagrams, Use Case Diagrams, Personas |
 | Methodologies | Agile, Scrum, Kanban |
 | Spoken Languages | Portuguese (Native), English (Learning), Spanish (Learning) |
 
