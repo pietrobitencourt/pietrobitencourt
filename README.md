@@ -102,6 +102,18 @@ I'm a Computer Science student at UDF, passionate about technology, software dev
 
 <div align="center">
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pietrobitencourt/pietrobitencourt/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pietrobitencourt/pietrobitencourt/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/pietrobitencourt/pietrobitencourt/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 <sub>powered by caffeine, curiosity, and way too many AI subscriptions</sub>
 
 <br/><br/>
