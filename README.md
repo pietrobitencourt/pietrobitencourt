@@ -112,9 +112,8 @@ I'm a Computer Science student at UDF, passionate about technology, software dev
   </picture>
 </div>
 
-
 <sub>powered by caffeine, curiosity, and way too many AI subscriptions</sub>
 
-<br/><br/>
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:8A6508,100:F5C542"/>
