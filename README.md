@@ -2,7 +2,7 @@
 
 <img width="1199" height="677" alt="image" src="https://github.com/user-attachments/assets/de89c7a8-4288-487f-9376-1021e9c5097b" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello,+World!;+I'm+Piêtro☕;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffd700&duration=4000&lines=Hello,+World!;+I'm+Piêtro☕;" />
 
 <br/>
 
@@ -13,13 +13,13 @@
 </div>
 
 ## 👨‍💻 About Me
-![](https://komarev.com/ghpvc/?username=Ghosttxz&color=blue)
+![](https://komarev.com/ghpvc/?username=Ghosttxz&color=yellow)
 
 I'm a Computer Science student at UDF, passionate about technology, software development, and continuous learning. Currently developing my skills in Python, C, HTML, CSS, JavaScript, MySQL, Git, and GitHub through personal and academic projects. Adaptability, teamwork, and leadership are some of my strengths, and I'm always looking to explore new areas of computing and improve my technical and interpersonal skills. I'm a native Portuguese speaker currently improving my English and Spanish, with an interest in learning French and Japanese in the future.
 
 <div align="right">
   
-**🎸 Follow Me on:**
+**🔗 Connect With Me:**
 
 </div>
 
@@ -28,10 +28,10 @@ I'm a Computer Science student at UDF, passionate about technology, software dev
   <a href="https://instagram.com/piiettrosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/OFantasmaDoTamburil/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/piiettrosz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="pietronbitencourt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
 
 </div>
 
----
 
 <div align="center">
 	
