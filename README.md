@@ -25,10 +25,10 @@ I'm a Computer Science student at UDF, passionate about technology, software dev
 
 <div align="right">
   
-  <a href="https://instagram.com/piiettrosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/OFantasmaDoTamburil/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/piiettrosz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="pietronbitencourt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/piiettrosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23181818?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/OFantasmaDoTamburil/" target="_blank"><img src="https://img.shields.io/badge/Steam-181818?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/piiettrosz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23181818?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="mailto:pietronbitencourt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-181818.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
 
 </div>
 
