@@ -1,28 +1,21 @@
 <div align="center">
 
-<img width="1655" height="950" alt="image" src="https://github.com/user-attachments/assets/317665ed-5469-4b28-ad2e-d1199983618c" />
+<img width="1199" height="677" alt="image" src="https://github.com/user-attachments/assets/de89c7a8-4288-487f-9376-1021e9c5097b" />
 
-# Hello, World! I'm Piêtro ☕
-### Computer Science Student | Python Developer
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello,+World!;+I'm+Piêtro☕;" />
+
+<br/>
+
+<sub>Centro Universitário do Distrito Federal · Computer Science student · Building fun stuff I want to exist</sub>
+
+<br/><br/>
 
 </div>
 
 ## 👨‍💻 About Me
 ![](https://komarev.com/ghpvc/?username=Ghosttxz&color=blue)
 
-🌟 Computer Science student from Brazil, 18 years old.
-
-🔭 Passionate about technology and software development.
-
-⚙️ Currently focused on learning Python, building small projects, and improving problem-solving and logical thinking skills.
-
-🧠 Using tools like VS Code and PyCharm, while learning core concepts such as Git and GitHub.
-
-📚 Expanding my knowledge in technologies like JavaScript and TypeScript, and exploring languages such as C, C++, and Java.
-
-🌍 Native Portuguese speaker, comfortable with Spanish, and currently learning Japanese. I also have a good level of English.
-
-🚀 Committed to continuous learning, consistency, and long-term growth in software development.
+I'm a Computer Science student at UDF, passionate about technology, software development, and continuous learning. Currently developing my skills in Python, C, HTML, CSS, JavaScript, MySQL, Git, and GitHub through personal and academic projects. Adaptability, teamwork, and leadership are some of my strengths, and I'm always looking to explore new areas of computing and improve my technical and interpersonal skills. I'm a native Portuguese speaker currently improving my English and Spanish, with an interest in learning French and Japanese in the future.
 
 <div align="right">
   
@@ -85,29 +78,43 @@
 
 <div align="center">
 
-## 🎯 Development Goals
-
-**Become a software developer focused on building practical solutions**
-
-**Develop real-world projects using Python and problem-solving skills**
-
-**Improve code structure, readability, and programming best practices**
-
-**Strengthen logical thinking through consistent practice**
-
-**Build a solid portfolio for internship opportunities**
-
-</div>
-
-<div align="center">
-
   
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghosttxz&theme=maroongold&show_icons=true" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=Ghosttxz&theme=maroongold" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosttxz&layout=compact&theme=maroongold" height="150"/>
-</p>
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=pietrobitencourt&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=pietrobitencourt&show_icons=true&title_color=C41E3A&text_color=24292f&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pietrobitencourt&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pietrobitencourt&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pietrobitencourt&title_color=C41E3A&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pietrobitencourt&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pietrobitencourt&hide_border=true&background=0d1117&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pietrobitencourt&hide_border=true&background=ffffff&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+  <img src="https://streak-stats.demolab.com?user=pietrobitencourt&hide_border=true&background=0d1117&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
+</picture>
+
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+<sub>powered by caffeine, curiosity, and way too many AI subscriptions</sub>
+
+<br/><br/>
 
 </div>
