@@ -112,7 +112,6 @@ I'm a Computer Science student at UDF, passionate about technology, software dev
   </picture>
 </div>
 
-<hr>
 
 <sub>powered by caffeine, curiosity, and way too many AI subscriptions</sub>
 
