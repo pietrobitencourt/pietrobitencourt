@@ -27,9 +27,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#FFD700&color_dots=#332b00,#665600,#997f00,#cca900,#ffd700
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFD700&palette=github-dark&color_dots=#332b00,#665600,#997f00,#cca900,#ffd700
-            dist/github-contribution-grid-snake.gif?color_snake=#FFD700&color_dots=#332b00,#665600,#997f00,#cca900,#ffd700
+            dist/github-contribution-grid-snake.svg?color_snake=#FFD700&color_dots=#1b1a17,#665600,#997f00,#cca900,#ffd700
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFD700&palette=github-dark&color_dots=#1b1a17,#665600,#997f00,#cca900,#ffd700
+            dist/github-contribution-grid-snake.gif?color_snake=#FFD700&color_dots=#1b1a17,#665600,#997f00,#cca900,#ffd700
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Show build status
