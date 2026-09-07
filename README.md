@@ -63,7 +63,7 @@ I'm a Computer Science student at UDF, passionate about technology, software dev
 
 | Area | Skills |
 |---|---|
-| Methodologies | Agile, Scrum, Kanban |
+| Methodologies | Agile, Scrum, Kanban, Lean, XP (Extreme Programming) |
 | Soft Skills | Leadership, Teamwork, Communication, Organization, Adaptability |
 | Spoken Languages | Portuguese (Native), English (Learning), Spanish (Learning) |
 
